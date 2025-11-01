@@ -25,12 +25,13 @@
         <th>Стек</th>
     </tr>
     <tr>
-        <td><a href=https://github.com/AleksKolesnik/project_1>Анализ и исследование продуктовых метрик мобильного приложения</a></td>
+        <td><a href=https://github.com/AleksKolesnik/project_1>Анализ и исследование продуктовых 
+         метрик мобильного приложения</a></td>
         <td>Ячейка 2.1</td>
         <td>Ячейка 3.1</td>
     </tr>
     <tr>
-        <td>Ячейка 1.2</td>
+        <td>Проведение когортного анализа; исследование метрик - Retention, ARPU, ARPPU, Conversion rate; формирование метрик для отслеживания  </td>
         <td>Ячейка 2.2</td>
         <td>Ячейка 3.1</td>
     </tr>
