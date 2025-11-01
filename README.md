@@ -17,6 +17,24 @@
 - Анализ данных для выбора товаров и ниш (анализ трендов, конкурентов)
 
 
+### Мои проекты:
+<table>
+    <tr>
+        <th>Заголовок 1</th>
+        <th>Заголовок 2</th>
+        <th>Заголовок 3</th>
+    </tr>
+    <tr>
+        <td>Ячейка 1.1</td>
+        <td>Ячейка 2.1</td>
+        <td>Ячейка 3.1</td>
+    </tr>
+    <tr>
+        <td>Ячейка 1.2</td>
+        <td>Ячейка 2.2</td>
+        <td>Ячейка 3.1</td>
+    </tr>
+</table>
 <!--
 **AleksKolesnik/AleksKolesnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
