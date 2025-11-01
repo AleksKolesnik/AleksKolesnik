@@ -20,12 +20,12 @@
 ### Мои проекты:
 <table>
     <tr>
-        <th>Заголовок 1</th>
-        <th>Заголовок 2</th>
-        <th>Заголовок 3</th>
+        <th>Название проекта</th>
+        <th>Описание проекта</th>
+        <th>Стек</th>
     </tr>
     <tr>
-        <td>Ячейка 1.1</td>
+        <td>[Анализ и исследование продуктовых метрик мобильного приложения](https://github.com/AleksKolesnik/project_1)</td>
         <td>Ячейка 2.1</td>
         <td>Ячейка 3.1</td>
     </tr>
@@ -35,6 +35,8 @@
         <td>Ячейка 3.1</td>
     </tr>
 </table>
+
+
 <!--
 **AleksKolesnik/AleksKolesnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
