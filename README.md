@@ -25,7 +25,7 @@
         <th>Стек</th>
     </tr>
     <tr>
-        <td>[Анализ и исследование продуктовых метрик мобильного приложения](https://github.com/AleksKolesnik/project_1)</td>
+        <td><a href=https://github.com/AleksKolesnik/project_1>Анализ и исследование продуктовых метрик мобильного приложения</a></td>
         <td>Ячейка 2.1</td>
         <td>Ячейка 3.1</td>
     </tr>
@@ -35,6 +35,7 @@
         <td>Ячейка 3.1</td>
     </tr>
 </table>
+
 
 
 <!--
