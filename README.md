@@ -28,7 +28,7 @@
         <td><a href=https://github.com/AleksKolesnik/project_1>Анализ и исследование продуктовых 
          метрик мобильного приложения</a></td>
         <td>Проведение когортного анализа; Анализ и расчет метрик - Retention, ARPU, ARPPU, Conversion rate; Формирование метрик для отслеживания тематического события </td>
-        <td>Ячейка 3.1</td>
+        <td>Python(pandas,seaborn,matplotlib,numpy)</td>
     </tr>
 </table>
 
